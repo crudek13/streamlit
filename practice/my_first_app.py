@@ -1,5 +1,5 @@
 '''
-### in terminal (cmd (should be default)):
+### in terminal (cmd (should be default in vs code)):
 
 # create new environment called env_streamlit
 conda create -n env_streamlit python
